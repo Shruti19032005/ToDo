@@ -1,8 +1,19 @@
-# React + Vite
+📝 To-Do List App
+This is a simple To-Do List App where users can add tasks, delete tasks, and keep track of their daily to-do items. Although the app currently has basic functionality, I plan to add more features once my college exams are over!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features (Current Version)
+✅ Add a new task
+✅ Delete a task
+✅ Mark a task as complete (Optional)
+✅ Basic UI for better user experience
 
-Currently, two official plugins are available:
+🗒️ To-Do (Upcoming Features)
+I plan to add these features after my exams:
+📌 Edit tasks functionality
+📌 Task categories (e.g., Work, Personal, Study)
+📌 Save tasks in LocalStorage or database
+📌 Responsive design for mobile devices
+📌 User authentication (optional)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Goals
+This project is part of my learning process, and I will enhance it after my college exams. For now, it’s a simple app built with the limited time I have.
