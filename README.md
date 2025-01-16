@@ -8,8 +8,7 @@ This is a simple To-Do List App where users can add tasks, delete tasks, and kee
 ✅ Basic UI for better user experience
 
 🗒️ To-Do (Upcoming Features)
-I plan to add these features after my exams:
-📌 Edit tasks functionality
+I plan to add these features after my exams:📌 Edit tasks functionalityaq
 📌 Task categories (e.g., Work, Personal, Study)
 📌 Save tasks in LocalStorage or database
 📌 Responsive design for mobile devices
